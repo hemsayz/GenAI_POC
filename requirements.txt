@@ -1,0 +1,16 @@
+# --- Core UI & Environment ---
+streamlit
+python-dotenv
+requests
+
+# --- Document Parsing & Text Slicing ---
+pymupdf
+langchain-community
+langchain-text-splitters
+
+# --- AI Models, Embeddings & Vectors ---
+openai
+langchain-openai
+tiktoken
+faiss-cpu
+numpy
